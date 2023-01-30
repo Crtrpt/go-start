@@ -1,3 +1,3 @@
-module crtrpt/go-start
+module crtrpt.com/go-start
 
 go 1.19
